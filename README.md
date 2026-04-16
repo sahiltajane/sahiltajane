@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil Tajane
 
-<!--
-**sahiltajane/sahiltajane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Infrastructure Engineer  
+📍 Ahmednagar, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I build and manage production-like infrastructure using Docker, Kubernetes, and Linux.  
+Focused on networking, security, and monitoring systems.
+
+---
+
+## ⚙️ Tech Stack
+
+- Docker, Kubernetes  
+- Proxmox, VMware  
+- VLANs, OPNsense, UniFi  
+- Prometheus, Grafana, Alertmanager, Falco  
+- Python, Bash  
+
+---
+
+## 🔥 Projects
+
+### 🧱 DevOps Homelab
+- Kubernetes + Docker setup  
+- Cloudflare Tunnel (Zero Trust)  
+- NetBird VPN  
+
+👉 (Coming Soon)
+
+---
+
+### 📊 Monitoring Stack
+- Prometheus + Grafana  
+- Alerting system  
+
+👉 (Coming Soon)
+
+---
+
+### 💾 Backup System
+- Restic + SFTP  
+- Automated backups  
+
+👉 (Coming Soon)
+
+---
+
+## 📫 Contact
+
+- Email: tajanesahil@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sahil-tajane-90693227a/
